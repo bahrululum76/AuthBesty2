@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "captcha-canvas": "^3.2.1",
+    "cypress": "^12.10.0",
+    "imap": "^0.8.19",
+    "node-imap": "^0.9.6",
+    "semver": "^7.5.0",
+    "xpath": "^0.0.32"
+  },
+  "devDependencies": {
+    "cypress-iframe": "^1.0.1",
+    "cypress-xpath": "^2.0.1"
+  }
+}
